@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Editorial portrait placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7F3EC"/>
+      <stop offset="55%" stop-color="#E8E1D8"/>
+      <stop offset="100%" stop-color="#D4C9BB"/>
+    </linearGradient>
+    <linearGradient id="shade" x1="0.2" y1="0" x2="0.9" y2="1">
+      <stop offset="0%" stop-color="#211D1A" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#211D1A" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <rect x="80" y="120" width="640" height="760" fill="none" stroke="#B79A68" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="80" y1="200" x2="720" y2="200" stroke="#9B9187" stroke-opacity="0.35" stroke-width="1"/>
+  <circle cx="400" cy="360" r="110" fill="#211D1A" fill-opacity="0.12"/>
+  <path d="M250 720 C280 560 520 560 550 720 L550 820 L250 820 Z" fill="#211D1A" fill-opacity="0.16"/>
+  <rect width="800" height="1000" fill="url(#shade)"/>
+  <line x1="120" y1="880" x2="280" y2="880" stroke="#B79A68" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Editorial placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f3ec"/>
+      <stop offset="100%" stop-color="#e8e1d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <rect x="80" y="80" width="1040" height="740" fill="none" stroke="#b79a68" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="600" cy="420" r="120" fill="none" stroke="#211d1a" stroke-opacity="0.12" stroke-width="1"/>
+  <text x="600" y="780" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#9b9187" letter-spacing="6">ATELIER</text>
+</svg>
